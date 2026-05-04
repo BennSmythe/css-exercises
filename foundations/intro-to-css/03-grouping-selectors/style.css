@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.alert-button   {
+background-color: black;
+color: white;
+}
+
+.confirm-button {
+    background: yellow;
+}
+
+.alert-button, .confirm-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif; 
+}
